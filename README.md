@@ -1,3 +1,10 @@
+Output
+
+
+![shopsy](https://user-images.githubusercontent.com/114070689/204078887-008faca3-b0da-4ab1-95bd-94615a1e9612.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
