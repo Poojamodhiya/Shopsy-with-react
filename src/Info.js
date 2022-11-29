@@ -12,7 +12,8 @@ function Info() {
                 src="https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/8/9/8904330900707_1.jpg"
                 className="card-img-top"
                 alt="..."
-              /><hr/>
+              />
+              <hr />
               <div className="card-body">
                 <h5 className="card-title">Matte Blush</h5>
                 <a className="btn btn-danger text-white">Preview Shades</a>
@@ -28,7 +29,7 @@ function Info() {
                 className="card-img-top"
                 alt="..."
               />
-<hr/>
+              <hr />
               <div className="card-body">
                 <h5 className="card-title">Lipstick</h5>
                 <a className="btn btn-danger text-white">Preview Shades</a>
@@ -44,7 +45,7 @@ function Info() {
                 className="card-img-top"
                 alt="..."
               />
-<hr/>
+              <hr />
               <div className="card-body">
                 <h5 className="card-title">Eye Look</h5>
                 <a className="btn btn-danger text-white">Preview Shades</a>
@@ -53,7 +54,7 @@ function Info() {
           </div>
         </div>
 
-        <div className="row" style={{marginBottom:"60px"}}>
+        <div className="row" style={{ marginBottom: "60px" }}>
           <div className="col-md-4">
             <div className="card" style={{ width: "16rem", marginTop: "20px" }}>
               <img
@@ -62,7 +63,7 @@ function Info() {
                 className="card-img-top"
                 alt="..."
               />
-<hr/>
+              <hr />
               <div className="card-body">
                 <h5 className="card-title">Foundation</h5>
                 <a className="btn btn-danger text-white">Preview Shades</a>
@@ -78,7 +79,7 @@ function Info() {
                 className="card-img-top"
                 alt="..."
               />
-<hr/>
+              <hr />
               <div className="card-body">
                 <h5 className="card-title">Eye Pencil</h5>
                 <a className="btn btn-danger text-white">Preview Shades</a>
@@ -94,7 +95,7 @@ function Info() {
                 className="card-img-top"
                 alt="..."
               />
-<hr/>
+              <hr />
               <div className="card-body">
                 <h5 className="card-title">Creme Blush</h5>
                 <a className="btn btn-danger text-white">Preview Shades</a>
